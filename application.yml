@@ -4,9 +4,7 @@ spring:
       uri: mongodb://localhost:27017
       database: microservices
   application:
-    name: HOTEL-SERVICE
-server:
-  port: 8082
+    name: CONFIG-DEFAULT
   
 eureka:
  instance:
