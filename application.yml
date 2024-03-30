@@ -3,8 +3,6 @@ spring:
     mongodb:
       uri: mongodb://localhost:27017
       database: microservices
-  application:
-    name: CONFIG-DEFAULT
   
 eureka:
  instance:
